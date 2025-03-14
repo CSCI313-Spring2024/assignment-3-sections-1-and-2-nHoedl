@@ -18,5 +18,5 @@ export class HomeComponent {
   //setting housingLocationlist to the data array in HousingService 
   this.housingLocationList = this.housingService.getAllHousingLocations(); 
   } 
-  } 
+}
  
